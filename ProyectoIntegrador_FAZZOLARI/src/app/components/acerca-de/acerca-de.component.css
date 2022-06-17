@@ -1,0 +1,46 @@
+div{
+    
+    background-color: #202020;
+    text-align: center;
+    height: 220px;
+}
+
+#nombre {
+    text-align: right;
+    color:white;
+    font-size: 250%;
+}
+
+#profesion {
+    margin: auto;
+    color:white;
+    text-align: right;
+}
+
+#divsobremi {
+    color: white;
+    text-align: center;
+}
+
+@media(min-width: 576px){
+    #foto{
+        position: absolute;
+        border-radius: 80%;
+        width: 40%;
+        left: -5%;
+        top: 30%;
+        border-radius: 80%;
+        box-shadow: 4px 8px 8px 0;
+    }
+}
+@media(max-width: 575px){
+    #foto{
+        position: absolute;
+        border-radius: 80%;
+        width: 40%;
+        left: 30%;
+        top: 400px;
+        border-radius: 80%;
+        box-shadow: 4px 8px 8px 0;
+    }
+}

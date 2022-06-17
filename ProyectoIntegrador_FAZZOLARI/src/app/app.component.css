@@ -1,3 +1,6 @@
-body{
-    background-image: url(https://cdn.pixabay.com/photo/2016/11/21/18/14/abstract-1846962_960_720.jpg);
+.app-header{
+    position: relative;
+}
+.app-acerca-de{
+    position: absolute;
 }

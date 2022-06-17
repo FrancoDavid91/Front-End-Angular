@@ -2,4 +2,20 @@ img {
     width: 45px;
     margin: 5px;
 }
-
+#linkedin{
+    box-shadow: 0 0 10px white;
+    border-radius: 20%;
+}
+#github{
+    box-shadow: 0 0 10px white;
+    border-radius: 20%;
+    background-color: white;
+}
+#instagram{
+    box-shadow: 0 0 10px white;
+    border-radius: 20%;
+}
+#facebook{
+    box-shadow: 0 0 10px white;
+    border-radius: 20%;
+}
