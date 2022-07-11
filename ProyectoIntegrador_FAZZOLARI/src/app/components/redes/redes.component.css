@@ -1,3 +1,15 @@
+.row{
+    margin-right: 10px;
+}
+.btn{
+    margin-right: 20px;
+    margin-left: 30px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
 img {
     width: 45px;
     margin: 5px;
@@ -19,3 +31,9 @@ img {
     box-shadow: 0 0 10px white;
     border-radius: 20%;
 }
+#imgAP{
+    width: 200px;
+    height: 100px;
+    margin-left: 35px;
+}
+
